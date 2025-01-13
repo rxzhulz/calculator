@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="Love you ❤️";
+    document.getElementById("output-value").innerText="hitung sendiri kocak";
   }
